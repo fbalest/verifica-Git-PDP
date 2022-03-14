@@ -18,5 +18,4 @@
     1. Modificare l'allineamento del tag *H1*.
 1. Riportare sul main le modifiche effettuate..
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
-1. Risolvere eventuali conflitti.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
